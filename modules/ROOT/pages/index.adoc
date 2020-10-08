@@ -1,5 +1,5 @@
 ++++
-<redoc spec-url='../attachments/openapi.yml'></redoc>
+<redoc spec-url='_attachments/openapi.yml'></redoc>
 <script
     src="https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js"
     menuToggle="true"
