@@ -1,9 +1,9 @@
 ++++
 <redoc spec-url='_attachments/openapi.yml'
-options={{
+options={
     nativeScrollbars: true,
     theme: { colors: { primary: { main: '#dd5522' } } },
-  }}
+  }
 />
 <script
     src="https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js"
