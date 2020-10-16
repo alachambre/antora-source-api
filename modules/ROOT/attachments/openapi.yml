@@ -262,11 +262,11 @@ info:
       - if one of the PUT, DELETE or POST method is used, make sure that the `X-Bonita-API-Token` header is included
       - if the X-Bonita-API-Token header is included, make sure that the value is the same as the one of the cookie generated during the last login
       - Maybe a logout was issued or the session has expired; try to log in again, and re run the request with the new cookies and the new value for the `X-Bonita-API-Token` header.
-  x-logo:
-    url: images/logo_bonitasoft_white.png
-    backgroundColor: '#003355'
-    altText: Bonita API
-    href: 'https://documentation.bonitasoft.com/bonita/7.11/_rest-api'
+  # x-logo:
+  #   url: images/logo_bonitasoft_white.png
+  #   backgroundColor: '#003355'
+  #   altText: Bonita API
+  #   href: 'https://documentation.bonitasoft.com/bonita/7.11/_rest-api'
 servers:
   - url: 'http://localhost:8080/bonita'
   - url: 'http://bonita.localhost/bonita'
