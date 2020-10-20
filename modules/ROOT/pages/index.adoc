@@ -4,7 +4,10 @@
   noAutoAuth="true"
   requiredPropsFirst="true"
   pathInMiddlePanel="true"
-  theme="{ 'colors': { 'primary': { 'main' : '#ff00cc' } } }"
+  options={{
+    nativeScrollbars: true,
+    theme: { colors: { primary: { main: '#FF0000' } } },
+  }}
 />
 
 <script
