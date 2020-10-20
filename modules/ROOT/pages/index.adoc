@@ -4,8 +4,9 @@
   noAutoAuth="true"
   requiredPropsFirst="true"
   pathInMiddlePanel="true"
-  theme="{ 'colors': { 'primary': { 'main' : '#32329f' } } }"
+  theme="{ 'colors': { 'primary': { 'main' : '#ff00cc' } } }"
 />
+
 <script
     src="https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js">
 </script>
